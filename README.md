@@ -1,2 +1,2 @@
-# İlk" Repo 2"
+# İlk' Repo 2'
 
